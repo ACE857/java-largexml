@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/1630319/how-to-validate-a-xml-file-against-a
 
 xml java docs - https://docs.oracle.com/database/121/ADXDK/adx_j_diff.htm#ADXDK199
 
+#PYTHON 
+
+lxml in python
